@@ -84,8 +84,8 @@ html{
 }
 .home{
     display: flex;
-/*     background: url("img/slide.jpeg")repeat ; */
-    background: black;
+    background: url("img/slide.jpeg") ;
+/*     background: black; */
     height: 100vh;
     width: 100%;
     color: rgb(235, 230, 230);
